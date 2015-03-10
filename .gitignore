@@ -1,7 +1,6 @@
 #filter word file and txt file
 *.doc
 *.docx
-*.txt
 
 #filter Debug dir
 Debug/
