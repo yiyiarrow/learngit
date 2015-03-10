@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 bug test
 test revert
 test2
+test4
