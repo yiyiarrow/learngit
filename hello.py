@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import sys
 import os
-import urllib2
+import time
+
+print "Hello,", os.name, "! --", time.strftime("%Z %Y-%m-%d %A %H:%M:%S", time.localtime(time.time()))
+
+raw_input("click any key to quit...")
 
